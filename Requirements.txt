@@ -1,0 +1,9 @@
+python3
+pygame (2D graphics library)
+programming skills in python
+
+The Seek game is intended to indicate the use of Mathematical principles like Trignometry and vectors
+It also shows the programming thought process on how to solve programming problems
+The Trig is used for movement 
+Controls : left & right --> Set the direction of the player 
+           Up & down    --> Move in the set direction
